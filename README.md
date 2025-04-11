@@ -20,7 +20,7 @@ Expense Tracker is a PHP-based application that enables users to manage their ex
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone git clone https://github.com/UmairAshrf/expense-tracker.git
 cd expense-tracker
 ```
 
