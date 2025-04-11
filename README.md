@@ -12,7 +12,7 @@ Expense Tracker is a PHP-based application that enables users to manage their ex
 ## Requirements
 
 - PHP 8.0.30 or higher
-- MySQL 5.7 or higher
+- MySQL 10.4.32 or higher
 - Composer
 
 ## Installation

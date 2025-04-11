@@ -14,7 +14,7 @@ class DatabaseManagerTest extends TestCase
     public function testInsertExpense()
     {
         $stmt = $this->db->prepare("INSERT INTO expenses (amount, category, date, description) VALUES (?, ?, ?, ?)");
-        $result = $stmt->execute([100, 'Food', '2021-10-01', 'Lunch']);
+        $result = $stmt->execute([100, 'Food', '2025-04-01', 'Lunch']);
         $this->assertTrue($result);
     }
 }
